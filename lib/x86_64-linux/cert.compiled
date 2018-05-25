@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/fpc" Date="1525339401"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/alex/proj/cert/lib/x86_64-linux -Fl/home/alex/proj/rep/pemongo -Fl/home/alex/proj/rep/synapse/source/lib -Fu/home/alex/proj/rep/pemongo -Fu/usr/local/codetyphon/typhon/components/lz_MemDS/lib/x86_64-linux/gtk2 -Fu/usr/local/codetyphon/typhon/components/BaseIdeintf/units/x86_64-linux/gtk2 -Fu/usr/local/codetyphon/typhon/components/BaseControls/lib/x86_64-linux/gtk2 -Fu/usr/local/codetyphon/typhon/lcl/units/x86_64-linux/gtk2 -Fu/usr/local/codetyphon/typhon/lcl/units/x86_64-linux -Fu/usr/local/codetyphon/typhon/components/pl_Synapse/lib/x86_64-linux/gtk2 -Fu/usr/local/codetyphon/typhon/components/BaseUtils/lib/x86_64-linux -Fu/usr/local/codetyphon/typhon/packager/units/x86_64-linux -Fu/home/alex/proj/cert/ -FU/home/alex/proj/cert/lib/x86_64-linux/ -dLCL -dLCLgtk2 cert.ppr"/>
+</CONFIG>
